@@ -1,16 +1,15 @@
+#line 2 "src/main.cpp"
 
+#include "App.h"
 
-
-
-auto main()-> int
+int main( int argc, char ** argv )
 {
+  Wt::WLayout::setDefaultImplementation( Wt::LayoutImplementation::JavaScript );
 
-
+  Wt::WRun( argc, argv, &VnCrasberry::App::createApplication );
 
   return 0;
 
-} // endauto main()-> int
-
-
+} // endint main( int argc, char ** argv )
 
 
