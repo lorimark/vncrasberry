@@ -1,5 +1,5 @@
 #
-# This runs the artecams-live container, hooking it in to
+# This runs the container, hooking it in to
 #  the local file system for logging and other things.
 #
 
