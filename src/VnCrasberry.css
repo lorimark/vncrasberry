@@ -1,0 +1,14 @@
+
+/*
+** root document container
+**  background-color: ghostwhite;
+**  background-color: whitesmoke;
+**  background-color: floralwhite;
+*/
+.Wt-domRoot {
+  font-family: Courier New;
+  font-weight: normal;
+  background-color: azure;
+}
+
+
